@@ -1,0 +1,36 @@
+body{
+    font: 20px arial,sans-serif; 
+}
+#nav-bar{
+    background-color:#0080FF;
+    text-align: right;
+}
+
+.quem-somos{
+    padding-top: 20px;
+    color: #FFFFFF;
+    background-color: #04B4AE;
+}
+
+#parceiros{
+    color:#FFFFFF;
+    background-color:#F7BE81;  
+}
+
+#servicos{
+    color:#FFFFFF;
+    background-color: #D8F781;
+}
+
+#carrefour{
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.footerbg{
+    background-color:#04B4AE;
+    color:#FFFFFF;
+}
